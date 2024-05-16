@@ -1,2 +1,3 @@
-# Automatidata-Project---Regression-Model
-End to end project using regression model
+# New York City TLC Project
+
+This is an end to end Data Science project using PACE strategy (Plan, Analyse, Construct, Execute).
